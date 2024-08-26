@@ -1,0 +1,53 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	stand_arrow_starplatinum: {
+		DisplayName: Stand Arrow (Star Platinum)
+		Tooltip:
+			'''
+			Become to Star Platinum in a short time
+			Destructive Power: A
+			Speed: A
+			Range: C 
+			Durability: A 
+			Precision: A 
+			Developmental Potential: A 
+			Ora Ora Ora Ora Ora Ora Ora Ora!!!
+			'''
+	}
+
+	stand_arrow_hierophantgreen: {
+		DisplayName: Stand Arrow (Hierophant Green)
+		Tooltip:
+			'''
+			Become to Hierophant Green in a short time
+			Destructive Power: C
+			Speed: B
+			Range: A
+			Durability: B
+			Precision: C 
+			Developmental Potential: D 
+			20-Meter Radius Emerald Splash!!!
+			'''
+	}
+
+	stand_arrow_silverchariot: {
+		DisplayName: Stand Arrow (Silver Chariot)
+		Tooltip:
+			'''
+			Become to Silver Chariot in a short time
+			Destructive Power: C
+			Speed: A
+			Range: C
+			Durability: B
+			Precision: B
+			Developmental Potential: C
+			My name is Polnareff! I will never forgive you for what you did to my sister!!!
+			'''
+	}
+
+	sword: {
+		Tooltip: ""
+		DisplayName: sword
+	}
+}

@@ -1,0 +1,3 @@
+displayName = JoJo&#39;s stand
+author = SamSi
+version = 0.1
